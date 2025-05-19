@@ -19,7 +19,7 @@ Este analizador fue creado a partir de la gramatica que se me fué proporcionada
 
 # Pasos para ejecutar
 
-1. Click derecho sobre la carpeta (O dentro de ella en el apartado principal dentro de ella) "Analizador sintaxis" y se selecciona la opción "Open Git Bash here"
+1. Click derecho sobre la carpeta "51163" (O dentro de ella en el apartado principal dentro de ella) y se selecciona la opción "Open Git Bash here"
 
 2. Instalar las dependencias necesarias (Solo la primera vez)
 
