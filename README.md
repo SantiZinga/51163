@@ -33,8 +33,11 @@ Este analizador fue creado a partir de la gramatica que se me fué proporcionada
 
 4. Probar distintos archivos de ejemplo:
 
-   npm start input_error1.txt
-   npm start input_error2.txt
-   npm start input_valid1.txt
-   npm start input_valid2.txt
+   -npm start input_error1.txt
+
+   -npm start input_error2.txt
+
+   -npm start input_valid1.txt
+   
+   -npm start input_valid2.txt
    
