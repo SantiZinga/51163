@@ -1,0 +1,4 @@
+si verdadero entonces {
+    imprimir("Hola Mundo");
+    salir;
+}

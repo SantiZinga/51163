@@ -1,0 +1,5 @@
+si falso entonces {
+    imprimir("No se muestra");
+} sino {
+    imprimir("Rama else");
+}
