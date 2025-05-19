@@ -1,5 +1,6 @@
 si falso entonces {
-    imprimir("No se muestra");
-} sino {
-    imprimir("Rama else");
+  imprimir("No se muestra");
+}
+si verdadero entonces {
+  imprimir("Rama else");
 }

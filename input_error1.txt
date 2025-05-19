@@ -1,4 +1,4 @@
 si verdadero entonces {
-    imprimir("Hola Mundo");
-    salir;
+  imprimir"Hola Mundo";
+  salir;
 }
