@@ -1,0 +1,2 @@
+x = ;
+output("Este input esta hecho para que de error");

@@ -1,0 +1,2 @@
+output("Falta el punto y coma")
+y = 12

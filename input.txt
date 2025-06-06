@@ -1,0 +1,4 @@
+x = 123;
+output("hola mundo");
+y = 456;
+output("chau");

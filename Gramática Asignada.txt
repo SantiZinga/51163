@@ -1,0 +1,15 @@
+REGLAS GRAMÁTICALES ASIGNADAS
+Santiago Zingaretti
+Legajo 51163
+A continuación se adjunta la gramatica que se me asignó para este trabajo:
+
+Program ::= { SimpleStatement }
+SimpleStatement ::= AssignmentStatement | OutputStatement
+AssignmentStatement ::= Identifier "=" Constant ";"
+OutputStatement ::= "output" "(" TextLiteral ")" ";"
+Constant ::= Number | TextLiteral
+TextLiteral ::= "\"" { any character except "\"" } "\""
+Identifier ::= letter { letter | digit | "_" }
+Number ::= digit { digit }
+letter ::= "a" | ... | "z" | "A" | ... | "Z"
+digit ::= "0" | ... | "9"
